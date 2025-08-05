@@ -1,0 +1,10 @@
+github.com/jdetok/bball-etl-go v0.0.0-20250805214355-ffd1f931fb12 h1:5BIpeREER5e3FLz99JGPkgPPGJUe4xA1jzqpRMsNmM4=
+github.com/jdetok/bball-etl-go v0.0.0-20250805214355-ffd1f931fb12/go.mod h1:LrYRhg/SRzO48/eJZReBT0bvAKnn3nozpDfImAA0FX8=
+github.com/jdetok/bball-etl-go v0.0.0-20250805225239-d6ef36d17cb5 h1:JwntPwxEVUMq1mppFILRpsvHAokyr2EOzioYH0XUG68=
+github.com/jdetok/bball-etl-go v0.0.0-20250805225239-d6ef36d17cb5/go.mod h1:P6HdWX8B9WWL6Ymg1YvhnbkHwU2f1XWVy+jqj4Mqd2Q=
+github.com/jdetok/golib v0.0.0-20250804161741-05ec8788eb5f h1:iiuCQgztKgapMBP7SO7prATCZVP6JYMqG2rGU542Rds=
+github.com/jdetok/golib v0.0.0-20250804161741-05ec8788eb5f/go.mod h1:n/TzNVPIaLhbXKE82pIIesDXgoPMi4Nc0c7z7vi6UpQ=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
