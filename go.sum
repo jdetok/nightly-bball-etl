@@ -1,5 +1,7 @@
 github.com/jdetok/bball-etl-go v0.0.0-20250805231954-4a5c53480ad2 h1:BcchtgI+wtFE1qr06+snOheRPViOLbNDNXRu+EMaJc8=
 github.com/jdetok/bball-etl-go v0.0.0-20250805231954-4a5c53480ad2/go.mod h1:P6HdWX8B9WWL6Ymg1YvhnbkHwU2f1XWVy+jqj4Mqd2Q=
+github.com/jdetok/bball-etl-go v0.0.0-20250806010527-791575dc4161 h1:SCnZXcoMbhugaFhPpRnTybEZLcvXWS8hX5urRk1Ommc=
+github.com/jdetok/bball-etl-go v0.0.0-20250806010527-791575dc4161/go.mod h1:P6HdWX8B9WWL6Ymg1YvhnbkHwU2f1XWVy+jqj4Mqd2Q=
 github.com/jdetok/golib v0.0.0-20250804161741-05ec8788eb5f h1:iiuCQgztKgapMBP7SO7prATCZVP6JYMqG2rGU542Rds=
 github.com/jdetok/golib v0.0.0-20250804161741-05ec8788eb5f/go.mod h1:n/TzNVPIaLhbXKE82pIIesDXgoPMi4Nc0c7z7vi6UpQ=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
